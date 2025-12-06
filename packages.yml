@@ -1,0 +1,4 @@
+packages:
+#run dpt deps to install the package
+  - package: dbt-labs/codegen
+    version: 0.13.1
